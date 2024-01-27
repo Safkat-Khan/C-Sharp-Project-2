@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7Vz7QrsP/LIkbF2O/Vjsgq9hals5QrHZjSWHN6s5fTjWHYg4oOIBpiXdA74CQBQd7pYYJpgTvk3dd3+xr06DDg==",
+  "dgSpecHash": "dBzGypqJq387LhTuEPF4s3Hh2gS76XSNYfYrtKxEJaLrWpi88ZIfI9zxmv6pEMWtl/DLXsvQMxPFUha0dEBk3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\CCB\\OneDrive\\Desktop\\C#_project\\C#_project\\C#_project.csproj",
   "expectedPackageFiles": [
@@ -17,5 +17,16 @@
     "C:\\Users\\CCB\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\CCB\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }
