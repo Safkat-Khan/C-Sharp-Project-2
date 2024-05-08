@@ -101,3 +101,86 @@ D:\PROGRAMMING\CODE\C#\C#_project\C#_project\obj\Debug\net6.0-windows\C__project
 D:\PROGRAMMING\CODE\C#\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.user_dashboard.resources
 D:\PROGRAMMING\CODE\C#\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.user_profile.resources
 D:\PROGRAMMING\CODE\C#\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.CopyComplete
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\C#_project.exe
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\C#_project.deps.json
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\C#_project.runtimeconfig.json
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.AssemblyReference.cache
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.adminLogin.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.admin_dashboard.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.cart.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.Form1.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.home.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.order_details.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.payment.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.payment_details.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.Properties.Resources.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.seat_select.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.signup.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.splash_Screen.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.t_seat.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.T_select.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.user_dashboard.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.user_profile.resources
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.GenerateResource.cache
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.AssemblyInfoInputs.cache
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.AssemblyInfo.cs
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.CoreCompileInputs.cache
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.sourcelink.json
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.Up2Date
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\refint\C#_project.dll
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.pdb
+C:\Users\CCB\Downloads\project 1\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\C#_project.exe
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\C#_project.deps.json
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\C#_project.runtimeconfig.json
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\C#_project.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\C#_project.pdb
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.AssemblyReference.cache
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.adminLogin.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.admin_dashboard.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.cart.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.Form1.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.home.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.order_details.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.payment.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.payment_details.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.Properties.Resources.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.seat_select.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.signup.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.splash_Screen.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.t_seat.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.T_select.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.user_dashboard.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C__project.user_profile.resources
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.GenerateResource.cache
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.AssemblyInfoInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.AssemblyInfo.cs
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.CoreCompileInputs.cache
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.sourcelink.json
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.csproj.Up2Date
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\refint\C#_project.dll
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.pdb
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\C#_project.genruntimeconfig.cache
+C:\Users\CCB\OneDrive\Desktop\C#_project\C#_project\obj\Debug\net6.0-windows\ref\C#_project.dll

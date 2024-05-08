@@ -107,10 +107,5 @@ namespace C__project
             form.Show();
             this.Hide();
         }
-
-        private void panel4_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
     }
 }
